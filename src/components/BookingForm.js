@@ -58,6 +58,6 @@ const BookingForm = (props) => {
             </section>
         </header>
     );
-};
+}
 
 export default BookingForm;
